@@ -2,7 +2,7 @@
 Este es un repositorio de comandos de Linux del curso de Sistemas Operativos
 
 | Comandos                                                                      | Funciones     |
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+| --- | --- |
 |sudo reboot                                                                    | reinicia la máquina 
 |history                                                                        | comandos ya digitados 
 |cd                                                                             | cambie de directorio 
