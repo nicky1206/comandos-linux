@@ -60,4 +60,21 @@ Este es un repositorio de comandos de Linux del curso de Sistemas Operativos
 |history  grep [command]                                                        | imprimir el historial con ese comando
 |telnet towel.blinkenlights.nl                                                  | ver la cuarta película de starwars
 |lsblk -fm                                                                      | muestra información de todos los dispositivos de bloque (discos duros, SSD, memorias flash, CD-ROM…) que forman parte del hardware.
-
+|more [name].txt                                                                | imprime el contenido del archivo, para archivos que son muy largos
+| less                                                                          | opuesto a more
+| barra                                                                         | concatena dos comandos
+| tail                                                                          | ver el final del archivo segun x cantidad de lineas
+|head                                                                           |ver el principio de un archivo segun x cantidad de lineas
+| cntrl + c                                                                     | detener un proceso
+| echo                                                                          | imprime un mensaje en pantalla
+| startx                                                                        | inicia el etorno grafico
+|  unzip                                                                        | extrae el contenido de unarchivo comprimido
+|  whatis                                                                       | descripcion corta de un comando u objeto
+| neofetch                                                                      |  imprime informacion del sistema
+|  alias                                                                        | para ver los alias creados o crear uno
+| shutdown                                                                      | apagar la maquina
+|  uname                                                                        | imprime la informacion del sistema operativo
+|  ufw	                                                                        | firewall
+| mdadm	                                                                        | administrar discos y dispositivos
+|  pacman, yay, pikaur	                                                        | repositorios de archlinux
+| docker pull [imagen]	                                                        | selecciona la imagen que se indica
